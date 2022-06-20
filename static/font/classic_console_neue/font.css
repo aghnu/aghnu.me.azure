@@ -1,0 +1,7 @@
+/* fonts */
+@font-face {
+    font-family: "Classic Console Neue";
+    font-size: normal;
+    font-weight: 400;
+    src: url('./classic_console_neue.woff2') format("woff2");
+}
