@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+            "route": "/WNFA",
+            "rewrite": "/WNFA/index.html"
+        }
+    ]
+}
