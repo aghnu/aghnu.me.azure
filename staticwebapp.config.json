@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/WNFA",
-            "rewrite": "/WNFA/index.html"
+            "rewrite": "/WNFA"
         }
     ]
 }
