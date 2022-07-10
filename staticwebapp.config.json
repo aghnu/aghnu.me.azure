@@ -3,6 +3,14 @@
         {
             "route": "/WNFA",
             "rewrite": "/WNFA"
+        },
+        {
+            "route": "/gallery",
+            "rewrite": "/gallery"
+        },
+        {
+            "route": "/tools",
+            "rewrite": "/tools"
         }
     ]
 }
