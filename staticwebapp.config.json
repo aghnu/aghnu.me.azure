@@ -1,37 +1,9 @@
 {
-    "routes": [
-        {
-            "route": "/WNFA",
-            "rewrite": "/WNFA/"
-        },
-        {
-            "route": "/gallery",
-            "rewrite": "/gallery/"
-        },
-        {
-            "route": "/tools",
-            "rewrite": "/tools/"
-        },
-
-
-
-
-        {
-            "route": "/tools/ascii_art_generator",
-            "rewrite": "/tools/ascii_art_generator/"
-        },
-        {
-            "route": "/tools/user_agent_test",
-            "rewrite": "/tools/user_agent_test/"
-        },
-
-
-
-
-        {
-            "route": "/gallery/WNFA",
-            "rewrite": "/gallery/WNFA/"
+    "routes": [],
+    "trailingSlash": "auto",
+    "responseOverrides": {
+        "404": {
+          "rewrite": "/404.html"
         }
-        
-    ]
+    }
 }
