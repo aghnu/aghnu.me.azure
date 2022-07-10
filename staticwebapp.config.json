@@ -2,15 +2,15 @@
     "routes": [
         {
             "route": "/WNFA",
-            "rewrite": "/WNFA"
+            "rewrite": "/WNFA/"
         },
         {
             "route": "/gallery",
-            "rewrite": "/gallery"
+            "rewrite": "/gallery/"
         },
         {
             "route": "/tools",
-            "rewrite": "/tools"
+            "rewrite": "/tools/"
         },
 
 
@@ -18,11 +18,11 @@
 
         {
             "route": "/tools/ascii_art_generator",
-            "rewrite": "/tools/ascii_art_generator"
+            "rewrite": "/tools/ascii_art_generator/"
         },
         {
             "route": "/tools/user_agent_test",
-            "rewrite": "/tools/user_agent_test"
+            "rewrite": "/tools/user_agent_test/"
         },
 
 
@@ -30,7 +30,7 @@
 
         {
             "route": "/gallery/WNFA",
-            "rewrite": "/gallery/WNFA"
+            "rewrite": "/gallery/WNFA/"
         }
         
     ]
