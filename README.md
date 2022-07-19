@@ -1,15 +1,6 @@
-# Aghnu's Console | Gengyuan Huang's Website
+# aghnu.me
 https://www.aghnu.me
 
-A personal project that shows my frustration and my passion for Human-Computer Interaction.
-Oh... It also serves as my personal website.
+This repo contains the compiled code for my [homepage](https://www.aghnu.me) and some of my other static web projects. The site is hosted on azure. 
 
-## Technology used in this projest:
-- Pure JavaScript
-- Sass
-- Webpack
-
-## My design rationale:
-- Design a website that differs from common patterns - a diviant!
-- Recreate the old with the new - fun!
-- Exercise my artistic freedom - as a programmer!
+I uses webpack and sass heavily. 
