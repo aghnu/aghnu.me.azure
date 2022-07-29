@@ -10,6 +10,10 @@ I uses webpack and sass heavily.
 <img alt="demo" width="50%" src=https://user-images.githubusercontent.com/46549455/179661969-071b0af7-cd35-43fe-a03a-1c150b32a095.png>
 </p>
 
+## Resources
+azure static web config - https://docs.microsoft.com/en-us/azure/static-web-apps/configuration
+
+
 
 
 
