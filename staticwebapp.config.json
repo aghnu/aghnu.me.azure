@@ -1,13 +1,18 @@
 {
-    "routes": [],
-    "trailingSlash": "auto",
-    "responseOverrides": {
-        "404": {
-          "rewrite": "/404.html"
-        }
-    },
-    "globalHeaders": {
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
+  "routes": [
+    {
+      "route": "/",
+      "rewrite": "/main"
     }
+  ],
+  "trailingSlash": "auto",
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
+  },
+  "globalHeaders": {
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
+  }
 }
