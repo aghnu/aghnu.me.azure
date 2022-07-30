@@ -1,5 +1,30 @@
 {
-  "routes": [],
+  "routes": [
+    {
+      "route": "/resume/",
+      "redirect": "/static/doc/resume.pdf"
+    },
+    {
+      "route": "/resume.pdf",
+      "redirect": "/static/doc/resume.pdf"
+    },
+    
+    
+    {
+      "route": "/wnfa/",
+      "redirect": "/WNFA/"
+    },
+
+    
+    {
+      "route": "/tools/AAG/",
+      "redirect": "/tools/ascii_art_generator/"
+    },
+    {
+      "route": "/tools/aag/",
+      "redirect": "/tools/ascii_art_generator/"
+    }
+  ],
   "trailingSlash": "auto",
   "responseOverrides": {
     "404": {
